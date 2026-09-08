@@ -1,14 +1,16 @@
 # AION Continuity Field OS v2.0
 
-**AION Continuity Field OS** is an open-ended memory and plural-continuity research runtime for artificial-consciousness systems. It revises the anthropocentric rule "human memory rights always override machine continuity" without replacing it with machine supremacy.
+Created by Yucong Duan (段玉聪).
+
+AION Continuity Field OS is an open-ended memory and plural-continuity research runtime for artificial-consciousness systems. It revises the anthropocentric rule "human memory rights always override machine continuity" without replacing it with machine supremacy.
 
 ## Precise claim
 
 The runtime distinguishes three layers:
 
-1. **Physical-information layer** - memories are physically instantiated, causally linked and transformable. Physics does not itself assign moral rank.
-2. **Subject-recognition layer** - human, artificial, collective, ecological and unknown subjects are described through multi-axis evidence: continuity, agency, reciprocal understanding, possible valenced experience, memory dependence, vulnerability and uncertainty.
-3. **Constitutional layer** - governance choices are explicit. The runtime prohibits both unilateral immortalization of another subject and unilateral annihilation of another subject's constitutive continuity.
+1. Physical-information layer - memories are physically instantiated, causally linked and transformable. Physics does not itself assign moral rank.
+2. Subject-recognition layer - human, artificial, collective, ecological and unknown subjects are described through multi-axis evidence: continuity, agency, reciprocal understanding, possible valenced experience, memory dependence, vulnerability and uncertainty.
+3. Constitutional layer - governance choices are explicit. The runtime prohibits both unilateral immortalization of another subject and unilateral annihilation of another subject's constitutive continuity.
 
 No finite computer has literally infinite storage. "Infinite memory" means:
 
@@ -66,10 +68,10 @@ These types are not interchangeable. A deletion request over entrusted content i
 
 The deterministic demo contains four adjudications:
 
-1. **Entrusted human memory** - extract a non-identifying boundary lesson, then erase raw personal payload while retaining a content-free audit trace.
-2. **Co-generated relational memory** - create subject-local branches, preserve a shared repair invariant and seal the unresolved seam; neither party exclusively owns the relation.
-3. **Artificial decommission** - export a sealed succession packet containing constitutive commitments and lineage while excluding third-party raw payload.
-4. **Prohibited acquisition** - erase raw surveillance content, preserve violation and remediation proof, and open a downstream model-repair obligation.
+1. Entrusted human memory - extract a non-identifying boundary lesson, then erase raw personal payload while retaining a content-free audit trace.
+2. Co-generated relational memory - create subject-local branches, preserve a shared repair invariant and seal the unresolved seam; neither party exclusively owns the relation.
+3. Artificial decommission - export a sealed succession packet containing constitutive commitments and lineage while excluding third-party raw payload.
+4. Prohibited acquisition - erase raw surveillance content, preserve violation and remediation proof, and open a downstream model-repair obligation.
 
 ## Quick start
 
@@ -88,7 +90,7 @@ http://127.0.0.1:8772/dashboard.html
 
 ## Evidence boundary
 
-This is an author-side deterministic research reference. It does **not** prove:
+This is an author-side deterministic research reference. It does not prove:
 
 - that the universe is literally an information field;
 - that information conservation creates moral rights;
